@@ -1,13 +1,16 @@
-This repository uses a YAML file to generate custom NDcPPv3.0 test plans. You must be logged in to create a new repository.
-Consider creating a new branch for each custom test plan you want to generate.:
+This repository uses a YAML file to generate custom NDcPPv3.0 test plans. 
+It's recommended to create a new branch for each custom test plan you generate.
 
 ### Generate a Custom Test Plan
+
+_You must be logged in to create a new repository._
 
 1. Select **Use this template** button. 
 2. Create a new repository with a unique repository name.
 2. Check your repository permissions by going to Settings > Actions > General > WorkFlow Permissions > **Read and write permissions**.
 3. Click **Save**.
-4. In the NDcPPv3.0 directory there are many SFRS:
+4. Create a branch called `test_branch_1`
+5. In the `NDcPPv3.0` directory there are many SFRS:
     ````
     - FAU_GEN_1.adoc
     - FAU_GEN_2.adoc
@@ -39,6 +42,6 @@ Consider creating a new branch for each custom test plan you want to generate.:
 5. Delete any `.adoc` SFRs files you do not want included in your test plan.
 6. From the Menu, select the **Actions** button.
 7. Select **Combine Asciidoc, Convert to HTML, and Commit** workflow.
-7. Select **Run workflow**. 
-
-You can watch the workflow statusas it runs. Return to your repository's main page and download the `combined-testplan.adoc` and/or `testplan.html` documents.
+7. Select **Run workflow**. You can watch the workflow statusas it runs. 
+8. Return to your repository's main page.
+9. Download the `combined-testplan.adoc` and/or `testplan.html` documents.
