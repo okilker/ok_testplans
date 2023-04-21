@@ -11,7 +11,9 @@ Consider creating a new branch for each custom test plan you want to generate.:
     * FAU_GEN_1.adoc
     * FAU_GEN_2.adoc
     * FAU_STG_EXT_1.adoc
-    ------------
+    
+    ---
+
     * FCS_CKM_1.adoc
     * FCS_CKM_2.adoc
     * FCS_CKM_4.adoc
@@ -21,25 +23,39 @@ Consider creating a new branch for each custom test plan you want to generate.:
     * FCS_COP_1_SigGen.adoc
     * FCS_DTLSC_EXT_1.adoc
     * FCS_RBG_EXT_1.adoc
-    ------------
+    
+    ---
+    
     * FIA_UIA_EXT_1.adoc
-    ------------
+    
+    ---
+    
     * FMT_MOF_1_ManualUpdate.adoc
-    ------------
+    
+    ---
+    
     * MT_MTD_1_CoreData.adoc
-    ------------
+    
+    ---
+    
     * FMT_SMF_1.adoc
     * FMT_SMR_2.adoc
-    ------------
+    
+    ---
+    
     * FPT_SKP_EXT_1.adoc
     * FPT_STM_EXT_1.adoc
     * FPT_TST_EXT_1.adoc
     * FPT_TUD_EXT.1.adoc
-    ------------
+    
+    ---
+    
     * FTA_SSL_3.adoc
     * FTA_SSL_4.adoc
     * FTA_TAB_1.adoc
-    ------------
+
+    ---
+
     * FTP_ITC_1.adoc
     * FTP_TRP_1_Admin.adoc 
     
