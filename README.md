@@ -1,4 +1,4 @@
-This repository uses a YAML file to generate custom NDcPPv3.0-conformant test plans. 
+This repository uses a YAML file to generate customizable NDcPPv3.0-conformant test plans. 🎉 You can choose as many or as few SFRs as necessary to meet your needs.
 
 The generated test plans include the test cases a platform will need to pass in order to be certified under the collaborative Protection Profile for Network Devices Version 3.0 (NDcPPv3.0). These plans are taken from the Network Device Supporting Document Version 3.0 (NDSDv3.0) which defines the Evaluation Activities associated with the Security Functional Requirements (SFR) in the NDcPPv3.0.
 
@@ -43,6 +43,6 @@ _You must be logged in to create a new repository._
 5. Delete any `.adoc` SFRs files you do not want included in your test plan.
 6. From the Menu, select the **Actions** button.
 7. Select **Combine Asciidoc, Convert to HTML, and Commit** workflow.
-7. Select **Run workflow**. You can watch the workflow statusas it runs. 
+7. Select **Run workflow**. You can watch the workflow status as it runs. 
 8. Return to your repository's main page.
 9. Download the `combined-testplan.adoc` and/or `testplan.html` documents.
