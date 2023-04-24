@@ -1,4 +1,4 @@
-This repository uses a YAML file to generate customizable NDcPPv3.0-conformant test plans. 🎉 You can choose as many or as few SFRs as necessary to meet your needs.
+This repository uses a YAML file to generate customizable NDcPPv3.0-conformant test plans. 🎉 You can choose as many mandatory or selection-based SFRs as necessary to meet your needs.
 
 The generated test plans include the test cases a platform will need to pass in order to be certified under the collaborative Protection Profile for Network Devices Version 3.0 (NDcPPv3.0). These plans are taken from the Network Device Supporting Document Version 3.0 (NDSDv3.0) which defines the Evaluation Activities associated with the Security Functional Requirements (SFR) in the NDcPPv3.0.
 
