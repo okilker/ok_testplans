@@ -10,7 +10,7 @@ _You must be logged in to create a new repository._
 2. Create a new repository with a unique repository name.
 2. Check your repository permissions by going to Settings > Actions > General > WorkFlow Permissions > **Read and write permissions**.
 3. Click **Save**.
-4. Create a branch called `test_branch_1`
+4. [Create a branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#creating-a-branch). For example `sdwan_testplan_branch`
 5. In the `NDcPPv3.0` directory there are many SFRS:
     ````
     - FAU_GEN_1.adoc
